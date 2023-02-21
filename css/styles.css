@@ -170,5 +170,9 @@ p{
         width: 60%;
         transform: rotate(0);
     }
+    #title .container-fluid{
+    text-align: center;
+}
+
 }
 
